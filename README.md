@@ -1,6 +1,7 @@
-### Hi there 👋
+![Hwllo](https://readme-typing-svg.herokuapp.com?font=Changa&size=40&duration=3001&pause=500&color=1002F7&background=E3E978EB&center=true&random=false&width=900&height=100&lines=Hello+World+%F0%9F%91%8B;I'm+Sree+Harsha+)
+
 # 💫 About Me:
-🎮 I am working as Software Development Engineer<br>🧐 Interested in everything around web3, networks and more!<br>🌱 Currently learning cyber-forensics<br>❤️ Brewing Apps & Stuff with latest tech <br>🐧 Linux ... it does infinite loops in 5 seconds..
+🎮 I am working as Software Development Engineer<br>🧐 Interested in everything around web3, networks and more!<br>🌱 Currently Exploring deep tech <br>❤️ Brewing Apps & Stuff with latest tech <br>🐧 Linux ... it does infinite loops in 5 seconds..
 
 
 ## 🌐 Socials:
@@ -18,7 +19,7 @@
 **Sree-Harsha-PS/Sree-Harsha-PS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+![Hwllo](https://readme-typing-svg.herokuapp.com?font=Changa&size=31&duration=3001&pause=500&color=1002F7&background=E3E978EB&center=true&random=false&width=435&lines=Hello+World+%F0%9F%91%8B;I'm+Sree+Harsha+)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
