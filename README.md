@@ -1,7 +1,9 @@
 ![Hwllo](https://readme-typing-svg.herokuapp.com?font=Changa&size=40&duration=3001&pause=500&color=1002F7&background=E3E978EB&center=true&vCenter=true&random=false&width=900&height=100&lines=Hello+World+%F0%9F%91%8B;I'm+Sree+Harsha+)
 
 # 💫 About Me:
-🎮 I am working as Software Development Engineer<br>🧐 Interested in everything around web3, networks and more!<br>🌱 Currently Exploring deep tech <br>❤️ Brewing Apps & Stuff with latest tech <br>🐧 Linux ... it does infinite loops in 5 seconds..
+🎮 I am working as Software Development Engineer<br>🧐 Interested in everything around web3, networks and more!<br> 👯 I’m looking to collaborate on:
+Fullstack projects <br>
+🌱 Currently Exploring deep tech <br>❤️ Brewing Apps & Stuff with latest tech <br>🐧 Linux ... it does infinite loops in 5 seconds..
 
 
 ## 🌐 Socials:
