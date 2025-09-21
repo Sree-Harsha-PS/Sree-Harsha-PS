@@ -1,5 +1,7 @@
-![Hwllo](https://readme-typing-svg.herokuapp.com?font=Changa&size=40&duration=3001&pause=500&color=1002F7&background=E3E978EB&center=true&vCenter=true&random=false&width=900&height=100&lines=Hello+World+%F0%9F%91%8B;I'm+Sree+Harsha+)
+![Hwllo](https://readme-typing-svg.herokuapp.com?font=Changa&size=40&duration=3001&pause=500&color=1002F7&background=E3E978EB&center=true&vCenter=true&random=false&width=700&height=100&lines=Hello+World+%F0%9F%91%8B;I'm+Sree+Harsha+)
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/9dead276-4cc7-4ca5-af3c-360e6f3df797" />
+
 # 💫 About Me:
 🎮 I am working as Software Development Engineer<br>🧐 Interested in everything around web3, networks and more!<br> 👯 I’m looking to collaborate on:
 Fullstack projects <br>
